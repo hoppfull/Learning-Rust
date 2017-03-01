@@ -1,0 +1,6 @@
+[package]
+name = "ex04_primitive_types"
+version = "0.1.0"
+authors = ["bjorn kihlberg <hoppfull@gmail.com>"]
+
+[dependencies]
