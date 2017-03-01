@@ -1,0 +1,6 @@
+[package]
+name = "ex07_if_control_structure"
+version = "0.1.0"
+authors = ["bjorn kihlberg <hoppfull@gmail.com>"]
+
+[dependencies]
