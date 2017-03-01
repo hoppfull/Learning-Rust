@@ -1,0 +1,6 @@
+[package]
+name = "ex05_arrays"
+version = "0.1.0"
+authors = ["bjorn kihlberg <hoppfull@gmail.com>"]
+
+[dependencies]
