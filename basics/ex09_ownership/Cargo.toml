@@ -1,0 +1,6 @@
+[package]
+name = "ex09_ownership"
+version = "0.1.0"
+authors = ["bjorn kihlberg <hoppfull@gmail.com>"]
+
+[dependencies]
