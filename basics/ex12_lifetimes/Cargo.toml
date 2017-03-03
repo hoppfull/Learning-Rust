@@ -1,0 +1,6 @@
+[package]
+name = "ex12_lifetimes"
+version = "0.1.0"
+authors = ["bjorn kihlberg <hoppfull@gmail.com>"]
+
+[dependencies]
