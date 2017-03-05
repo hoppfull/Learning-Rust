@@ -1,0 +1,6 @@
+[package]
+name = "ex16_drop"
+version = "0.1.0"
+authors = ["bjorn kihlberg <hoppfull@gmail.com>"]
+
+[dependencies]
